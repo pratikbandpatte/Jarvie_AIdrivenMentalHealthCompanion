@@ -1,2 +1,2 @@
-# AIdrivenMentalHealthCompanion
-AI-driven Mental Health Companion
+# AI-driven Mental Health Companion
+
