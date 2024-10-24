@@ -1,2 +1,2 @@
-# AI-driven Mental Health Companion
+# Jarvie: AI-driven Mental Health Companion
 
